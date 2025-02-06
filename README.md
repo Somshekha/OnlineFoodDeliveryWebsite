@@ -1,7 +1,5 @@
 🌟🍽️ Introducing Yumgo: Redefining Food Delivery! 🍕🍔🍜
 
-<!-- Uploading "Screenshot 2025-02-06 200912.png"... -->
-
 
 
 
