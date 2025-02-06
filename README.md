@@ -10,6 +10,17 @@
 
 
 
+
+
+
+
+![Image](https://github.com/user-attachments/assets/75ade977-015f-4589-82ba-ecf55aaace82)
+
+
+
+
+
+
 🚀 Dive into my dynamic web application, Yumgo, a feature-rich food delivery platform that blends cutting-edge technology with a seamless user experience. Here's what makes it special:
 
 ✨ Key Features:
